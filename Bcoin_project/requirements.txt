@@ -3,4 +3,4 @@ pandas
 requests
 scikit-learn==1.6.1
 streamlit
-tensorflow
+tensorflow-cpu==2.12.0
